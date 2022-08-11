@@ -1,0 +1,14 @@
+{
+  "resourceName": "s364db842b",
+  "policyUUID": "64db842b",
+  "bucketName": "testcreatereactappau932d1f7c98ab4e3088c745f09c3",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
